@@ -9,8 +9,8 @@ Aplicación móvil hecha con React Native y Expo que muestra la información del
 
 ## Enlaces
 
-- **Video demostrativo:** [Ver video](PEGAR_ENLACE_DEL_VIDEO_AQUI)
-- **Descargar APK:** [Descargar APK](PEGAR_ENLACE_DEL_APK_AQUI)
+- **Video demostrativo:** [Ver video](https://drive.google.com/drive/folders/1w4YZD0eBWWOmqLzX83AbGSTsMBTTkZZm)
+- **Descargar APK:** [Descargar APK](https://expo.dev/accounts/blitzk6/projects/perfil3-app/builds/fcfcf768-3e49-4d5a-9fe8-c69d9e2281ab)
 
 ## Funcionalidades
 
